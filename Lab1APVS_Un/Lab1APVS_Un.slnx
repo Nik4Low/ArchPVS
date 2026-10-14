@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab1APVS_Un_seq/Lab1APVS_Un_seq.vcxproj" Id="8f3c2a11-4b6e-4d91-9c2a-1e7b5d3a0f21" />
+  <Project Path="Lab1APVS_Un_par/Lab1APVS_Un_par.vcxproj" Id="423e7102-0d56-436a-b818-1be8cb77031c" />
+</Solution>
